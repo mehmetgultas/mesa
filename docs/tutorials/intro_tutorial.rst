@@ -314,7 +314,7 @@ graphics library) to visualize the data in a histogram.
     #For a script add the following line
     plt.show()
 
-You'll should see something like the distribution below. Yours will
+You should see something like the distribution below. Yours will
 almost certainly look at least slightly different, since each run of the
 model is random.
 
